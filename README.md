@@ -1,9 +1,9 @@
 # IG-2.0-Resources
 
-This repository holds supplementary resources for the Institutional Grammar 2.0 (IG 2.0) as referenced from published work (see below), which specifically includes the specifications of IG 2.0 Syntax and Semantics. Please find links to the corresponding items below:
+This repository holds supplementary resources for the Institutional Grammar 2.0 (IG 2.0) as referenced from published work (see below), which specifically includes the specifications of IG 2.0 Syntax and Semantics. Please find links to the corresponding items below (Note: links open in new tabs):
 
-* [IG 2.0 Syntax](../blob/master/Syntax/IG-2.0-Syntax.png)
-* [IG 2.0 Semantics](../blob/master/Semantics/IG-2.0-Semantics.png)
+* <a href="https://raw.githubusercontent.com/InstitutionalGrammar/IG-2.0-Resources/main/Syntax/IG-2.0-Syntax.png" target="_blank">IG 2.0 Syntax</a>
+* <a href="https://raw.githubusercontent.com/InstitutionalGrammar/IG-2.0-Resources/main/Semantics/IG-2.0-Semantics.png" target="_blank">IG 2.0 Semantics</a>
 
 The conceptual discussion of the Institutional Grammar 2.0 is provided in the following article (preferred reference):
 
