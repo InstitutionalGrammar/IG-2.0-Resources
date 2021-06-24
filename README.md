@@ -7,8 +7,8 @@ This repository holds supplementary resources for the Institutional Grammar 2.0 
 
 The conceptual discussion of the Institutional Grammar 2.0 is provided in the following article (preferred reference):
 
-Frantz, C. K. and Siddiki, S. (2021): Institutional Grammar 2.0: A Specification for Encoding and Analyzing Institutional Design, *Public Administration*, 2021; 1-26. https://doi.org/10.1111/padm.12719
+Frantz, C. K. and Siddiki, S. (2021): Institutional Grammar 2.0: A Specification for Encoding and Analyzing Institutional Design, *Public Administration*, 2021, 99: 222–247. https://doi.org/10.1111/padm.12719
 
-In addition, please consider the IG 2.0 Codebook for further specification details and instructions for operational coding according to the IG 2.0:
+In addition, please consider the IG 2.0 Codebook for further specification details and regularly updated instructions for operational coding according to the IG 2.0:
 
 Frantz, C. K. and Siddiki, S. N. (2020): Institutional Grammar 2.0 Codebook, Available under: https://arxiv.org/abs/2008.08937
